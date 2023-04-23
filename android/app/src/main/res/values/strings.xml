@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ErrandRunner</string>
+    <string name="server_client_id">806885150352-97leth23d29avp4693tvsa0fjgf62grm.apps.googleusercontent.com</string>
+    <!-- <string name="facebook_app_id">642277080830338</string>
+<string name="facebook_client_token">48cb3b3b8ad3ba3f77420e08ff5447d5</string> -->
+    <string name="facebook_app_id">3420178451603275</string>
+    <string name="facebook_client_token">afeb9884ea74915bd6e1bdde80e6b0a6</string>
+
+</resources>
